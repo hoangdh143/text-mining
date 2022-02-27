@@ -4,7 +4,6 @@ import {useState} from "react";
 
 const fuzz = require('fuzzball');
 
-//test cloud9
 function App() {
   const [input, setInput] = useState("");
   const [output, setOutput] = useState("");
